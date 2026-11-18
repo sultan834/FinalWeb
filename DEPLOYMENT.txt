@@ -1,0 +1,1 @@
+GitHub Pages: upload the contents of this folder to the repository root, then open Settings > Pages, choose Deploy from a branch, select main and /(root), and save. Submit the published URL.
